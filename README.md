@@ -2,7 +2,7 @@
 This is a game of luck with dices.
 It requires 2 players that will take turns to roll a dice.
 The first to reach 100 points and press hold will win but take caution because if you roll 1 your points from that round will be lost.
-You can roll as many times you want but in the end you have to press hold to add your point from the round to the overall score.
+You can roll as many times you want but in the end you have to press hold to add your points from the round to the overall score.
 
 
 The game interface looks like this:
